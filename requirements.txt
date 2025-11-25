@@ -24,3 +24,4 @@ httpx==0.28.1
 
 # Producción
 gunicorn==23.0.0
+google-cloud-storage==2.18.0
